@@ -1,7 +1,5 @@
 # Hello, Techies 👋 I'm Bharanidharan B
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=S3nTh1L-03&show_icons=true&theme=radical)
-
 ---
 
 ## 🧑‍💻 About Me
