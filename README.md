@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/Public%20Speaking-Confident-34A853?style=flat&logo=googlemeet&logoColor=white"/> <!-- Google Meet: green -->
 <img src="https://img.shields.io/badge/Rubik's%20Cube-Solver-A51C30?style=flat&logo=rubygems&logoColor=white"/> <!-- Rubik's Cube: ruby red -->
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 </p>
 
 ---
