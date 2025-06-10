@@ -14,7 +14,7 @@
 
 ## 🚀 Tools and Technologies
 <p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>-->
 <!--<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
@@ -26,6 +26,15 @@
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Research%20Paper-8A2BE2?style=flat&logo=academia&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Music-Lover-blueviolet?style=flat&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chess-Player-black?style=flat&logo=chess&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fitness-Enthusiast-green?style=flat&logo=fitbit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photography-Hobbyist-orange?style=flat&logo=adobe-lightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public%20Speaking-Confident-yellow?style=flat&logo=googlemeet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rubik's%20Cube-Solver-ff69b4?style=flat&logo=rubygems&logoColor=white"/>
+
 </p>
 
 ---
