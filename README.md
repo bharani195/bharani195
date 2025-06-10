@@ -18,22 +18,28 @@
 <!--<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>-->
 <!--<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>-->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>-->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Research%20Paper-8A2BE2?style=flat&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Music-Lover-blueviolet?style=flat&logo=spotify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chess-Player-black?style=flat&logo=chess&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fitness-Enthusiast-green?style=flat&logo=fitbit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photography-Hobbyist-orange?style=flat&logo=adobe-lightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Public%20Speaking-Confident-yellow?style=flat&logo=googlemeet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rubik's%20Cube-Solver-ff69b4?style=flat&logo=rubygems&logoColor=white"/>
+<!-- Tech Skills -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <!-- HTML5: red -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <!-- CSS3: blue -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <!-- Git: orange-red -->
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <!-- VS Code: blue -->
+
+<!-- Cloud/Data/Research -->
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> <!-- Google Colab: yellow -->
+<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white"/> <!-- ML with Python: python blue -->
+<img src="https://img.shields.io/badge/Research%20Paper-4B0082?style=flat&logo=academia&logoColor=white"/> <!-- Research Paper: indigo -->
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/> <!-- MySQL: deep blue -->
+<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/> <!-- JSON: black -->
+
+<!-- Personal Interests -->
+<img src="https://img.shields.io/badge/Music-Lover-1DB954?style=flat&logo=spotify&logoColor=white"/> <!-- Spotify: green -->
+<img src="https://img.shields.io/badge/Chess-Player-000000?style=flat&logo=chess&logoColor=white"/> <!-- Chess: black -->
+<img src="https://img.shields.io/badge/Fitness-Enthusiast-00C2C2?style=flat&logo=fitbit&logoColor=white"/> <!-- Fitbit: teal -->
+<img src="https://img.shields.io/badge/Photography-Hobbyist-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white"/> <!-- Lightroom: light blue -->
+<img src="https://img.shields.io/badge/Public%20Speaking-Confident-34A853?style=flat&logo=googlemeet&logoColor=white"/> <!-- Google Meet: green -->
+<img src="https://img.shields.io/badge/Rubik's%20Cube-Solver-A51C30?style=flat&logo=rubygems&logoColor=white"/> <!-- Rubik's Cube: ruby red -->
 
 </p>
 
