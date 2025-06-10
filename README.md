@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Research%20Paper-8A2BE2?style=flat&logo=academia&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Music-Lover-blueviolet?style=flat&logo=spotify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chess-Player-black?style=flat&logo=chess&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fitness-Enthusiast-green?style=flat&logo=fitbit&logoColor=white"/>
